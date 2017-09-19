@@ -1,0 +1,3 @@
+"""This module contains the config settings for Cyclone"""
+
+TOKEN = "INSERTYOURBOTTOKENHERE"
