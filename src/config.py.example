@@ -1,3 +1,5 @@
 """This module contains the config settings for Cyclone"""
 
 TOKEN = "INSERTYOURBOTTOKENHERE"
+ROLES = ["Admin", "Discord Mod", "Subreddit Mod", "Mod"]
+STORMMODEIMAGE = "https://example.com/img/stormmode.gif"
