@@ -3,3 +3,6 @@
 TOKEN = "INSERTYOURBOTTOKENHERE"
 ROLES = ["Admin", "Discord Mod", "Subreddit Mod", "Mod"]
 STORMMODEIMAGE = "https://example.com/img/stormmode.gif"
+
+EMBEDROLES = "https://gist.example.com/roles.json"
+EMBEDRULES = "https://gist.example.com/rules.json"
